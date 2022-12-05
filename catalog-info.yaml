@@ -4,6 +4,7 @@ metadata:
   name: Backstage
   annotations:
     github.com/project-slug: GVelnicu/Backstage
+    app: library
 spec:
   type: other
   lifecycle: unknown
