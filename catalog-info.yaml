@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: Backstage
   annotations:
-    github.com/project-slug: GVelnicu/Backstage
-    app: library
+    azure.com/tag-selector: library
 spec:
   type: other
   lifecycle: unknown
